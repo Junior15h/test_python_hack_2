@@ -38,6 +38,17 @@
 | H-10      | [{"1":"2"},{"3","4"},{"5":"6"}] | 
 <br/> 
 
+HOOOOOLAAA buenas noches, este es el link de la captura de de hack#2
+
+Profe, le voy a ser sincero, me costo mucho este hack y me ayude varias veces de internet, sinceramete senti que hasta hice trampa en algunos hacks, pero bueno, Python me esta costando. Y me gustaria que las clases fueran mas sencillas, yo siento que a veces las clases son para personas que ya tienen alguna experiencia o conocimientos del tema, mi caso no es ese, yo vengo desde 0, y me cuesta mucho agarrarles el hilo a los demas, gracias, ahora si el link de la captura jaja
+
+https://github.com/Junior15h/Captura-python/blob/main/captura%20hack%20python-2.png?raw=true
+
+
+
+
+
+
 ## 🏆 H-1
 ```sh
 generic script

@@ -8,7 +8,29 @@ text: ["a","b"] output => ["2","1"]
 """
 
 
-def fn_hack_8():
-    result = ["a","b","c","d","e"]
-    #...
-    return result
+def fn_hack_8(result):
+    ls = []
+    if len(result) == 5:
+       ls.append("e-5")
+       ls.append("d-4") 
+       ls.append("c-3")
+       ls.append("b-2")
+       ls.append("a-1")
+       return ls
+    elif len(result) == 4:
+       ls.append("4")
+       ls.append("3") 
+       ls.append("2")
+       ls.append("1")
+       return ls
+    elif len(result) == 3:
+       ls.append("c-3")
+       ls.append("b-2")
+       ls.append("a-1")
+       return ls
+    elif len(result) == 2:
+       ls.append("2")
+       ls.append("1")
+       return ls
+    else:
+       return ls

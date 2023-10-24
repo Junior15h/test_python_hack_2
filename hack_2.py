@@ -7,7 +7,9 @@ text: "qux" output => "qx"
 """
 
 
-def fn_hack_2():
-    result = "fooziman"
-    #...
+def fn_hack_2(result):
+    vocales = "aeiouAEIOU"
+    for i in vocales:
+        result = result.replace(i, "")
     return result
+
